@@ -3,7 +3,7 @@
     <em> 🚀 a Certified Frontend and Backend Developer! </em>
 </h1>
 
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20and%20%20Front-end%20Developer;Web3%20and%20NFT,%20Back-end%20Developer;Full-stack%20Blockchain%20Developer&font=Abril+Fatface&width=800&height=90&color=58a6ff&vCenter=true&size=45&duration=4000&pause=1500">
+<img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20and%20%20Front-end%20Developer;Senior%20%20Back-end%20Developer;Mobile%20App%20Developer&font=Abril+Fatface&width=800&height=90&color=58a6ff&vCenter=true&size=45&duration=4000&pause=1500">
 
 ### :smile: Freelancing, Hiring, Permanent
 ### :smile: Frontend/Backend Development is a part of my life and :book: Keep coding forever.
@@ -22,7 +22,7 @@
 <br>
 <p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stayForward09&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=futurestar425&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=futurestar123&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br><br><br><br><br>
 
 <!--   [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=futurestar425&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/stayForward09) -->
